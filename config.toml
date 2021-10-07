@@ -1,0 +1,4 @@
+baseURL = 'http://yihi6.github.io'
+languageCode = 'en-us'
+title = 'myblog'
+theme = 'Base16'
